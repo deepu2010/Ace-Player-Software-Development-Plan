@@ -1,6 +1,6 @@
 # Ace-Player-Software-Development-Plan
 
-This repository consists of software development plan for building a video streaming application called **Ace-Player**. This project is a part of my academics, we are instructed to build a software development plan proposal for an video streaming application like youtube.
+This repository consists of software development plan for building a video streaming application called **Ace-Player**. This project is a part of my academics, we were instructed to build a software development plan proposal for an video streaming application like youtube.
 
 
 # Description of our proposed product:
