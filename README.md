@@ -13,8 +13,7 @@ In this project, we intended to follow Agile Scrum methodology for high visibili
 
 
   # Our Proposal document includes:
- 1. Business Objective
- 1.1. Vision Statement
+ 1. Business Objective, Vision Statement
  2. Functional and Non functional requirements
  3. Features for our AcePlayer
  4. Agile Scrum Process
